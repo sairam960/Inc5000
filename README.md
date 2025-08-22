@@ -2,7 +2,7 @@
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB)]() [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626)]() [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
-A reproducible analysis of **Inc. 5000 / Inc. 500** companies exploring growth trends, industry mix, geography, and performance patterns.  
+A reproducible analysis of **Inc. 5000 ** companies exploring growth trends, industry mix, geography, and performance patterns.  
 This repository includes an executable notebook and a pre-rendered HTML report for quick viewing.
 
 ## 📊 Quick Links
